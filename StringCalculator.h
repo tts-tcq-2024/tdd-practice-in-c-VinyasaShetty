@@ -1,8 +1,8 @@
 #include<string>
 
-int add(string input);
+int add(char input);
 
-int add(string input)
+int add(char input)
 {
   return 0;
 }
